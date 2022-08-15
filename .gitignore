@@ -1,0 +1,8 @@
+MonitorLog.txt
+MonitorJobData.csv
+__pycache__/
+dist/
+build/
+Temp.lnk
+databackup/
+SpyderController.spec

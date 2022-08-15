@@ -1,0 +1,1030 @@
+[STARTUP]	04/03/2022	15:20:16	BOOT
+[STARTUP]	04/03/2022	15:20:46	BOOT
+[STARTUP]	04/03/2022	15:20:46	Green Spyder	Printer Offline
+[STARTUP]	04/03/2022	15:20:46	Black Spyder	Printer Online
+[STARTUP]	04/03/2022	15:20:46	Yellow Spyder	Printer Online
+[STARTUP]	04/03/2022	15:20:46	White Spyder	Printer Online
+[STARTUP]	04/03/2022	15:20:46	Blue Spyder	Printer Online
+[LOG]	04/03/2022	15:21:27	White Spyder	Status Change: Printing
+[LOG]	04/03/2022	15:21:47	White Spyder	Status Change: Paused
+[LOG]	04/03/2022	15:23:49	White Spyder	Status Change: Failed
+[LOG]	04/03/2022	15:24:09	White Spyder	Status Change: Idle
+[ERROR]	04/03/2022	15:24:09	White Spyder	Could not send email to user: jsestito
+[STARTUP]	04/03/2022	15:24:44	BOOT
+[STARTUP]	04/03/2022	15:24:44	Green Spyder	Printer Offline
+[STARTUP]	04/03/2022	15:24:44	Black Spyder	Printer Online
+[STARTUP]	04/03/2022	15:24:44	Yellow Spyder	Printer Online
+[STARTUP]	04/03/2022	15:24:44	White Spyder	Printer Online
+[STARTUP]	04/03/2022	15:24:44	Blue Spyder	Printer Online
+[LOG]	04/03/2022	15:25:25	White Spyder	Status Change: Printing
+[LOG]	04/03/2022	15:25:25	Job Started: Flexi-Rex-improved.gcode
+[LOG]	04/03/2022	15:25:45	White Spyder	Status Change: Idle
+[ERROR]	04/03/2022	15:25:45	White Spyder	Could not send email to user: jsestito
+[STARTUP]	04/03/2022	15:26:47	BOOT
+[STARTUP]	04/03/2022	15:26:47	Green Spyder	Printer Offline
+[STARTUP]	04/03/2022	15:26:47	Black Spyder	Printer Online
+[STARTUP]	04/03/2022	15:26:47	Yellow Spyder	Printer Online
+[STARTUP]	04/03/2022	15:26:47	White Spyder	Printer Online
+[STARTUP]	04/03/2022	15:26:47	Blue Spyder	Printer Online
+[LOG]	04/03/2022	15:27:07	White Spyder	Status Change: Printing
+[LOG]	04/03/2022	15:27:07	Job Started: Flexi-Rex-improved.gcode
+[LOG]	04/03/2022	15:27:27	White Spyder	Status Change: Idle
+[ERROR]	04/03/2022	15:27:27	White Spyder	Could not send email to user: jsestito
+[STARTUP]	04/03/2022	15:29:33	BOOT
+[STARTUP]	04/03/2022	15:29:33	Green Spyder	Printer Offline
+[STARTUP]	04/03/2022	15:29:33	Black Spyder	Printer Online
+[STARTUP]	04/03/2022	15:29:33	Yellow Spyder	Printer Online
+[STARTUP]	04/03/2022	15:29:33	White Spyder	Printer Online
+[STARTUP]	04/03/2022	15:29:33	Blue Spyder	Printer Online
+[LOG]	04/03/2022	15:29:54	White Spyder	Status Change: Printing
+[LOG]	04/03/2022	15:29:54	Job Started: Flexi-Rex-improved.gcode
+[LOG]	04/03/2022	15:30:14	White Spyder	Status Change: Idle
+[ERROR]	04/03/2022	15:30:14	White Spyder	Could not send email to user: jsestito
+[LOG]	04/03/2022	15:31:55	White Spyder	Status Change: Printing
+[LOG]	04/03/2022	15:31:55	Job Started: Flexi-Rex-improved.gcode
+[LOG]	04/03/2022	15:32:15	White Spyder	Status Change: Idle
+[ERROR]	04/03/2022	15:32:15	White Spyder	Could not send email to user: jsestito
+[LOG]	04/03/2022	15:33:56	Black Spyder	Status Change: Failed
+[STARTUP]	14/03/2022	09:04:26	BOOT
+[STARTUP]	14/03/2022	09:04:26	Green Spyder	Printer Offline
+[STARTUP]	14/03/2022	09:04:26	Black Spyder	Printer Online
+[STARTUP]	14/03/2022	09:04:26	Yellow Spyder	Printer Online
+[STARTUP]	14/03/2022	09:04:26	White Spyder	Printer Online
+[STARTUP]	14/03/2022	09:04:26	Blue Spyder	Printer Online
+[STARTUP]	14/03/2022	09:07:38	BOOT
+[STARTUP]	14/03/2022	09:07:38	Green Spyder	Printer Online
+[STARTUP]	14/03/2022	09:07:38	Black Spyder	Printer Online
+[STARTUP]	14/03/2022	09:07:38	Yellow Spyder	Printer Online
+[STARTUP]	14/03/2022	09:07:38	White Spyder	Printer Online
+[STARTUP]	14/03/2022	09:07:38	Blue Spyder	Printer Online
+[STARTUP]	14/03/2022	09:13:06	BOOT
+[STARTUP]	14/03/2022	09:13:06	Green Spyder	Printer Online
+[STARTUP]	14/03/2022	09:13:06	Black Spyder	Printer Online
+[STARTUP]	14/03/2022	09:13:06	Yellow Spyder	Printer Online
+[STARTUP]	14/03/2022	09:13:06	White Spyder	Printer Online
+[STARTUP]	14/03/2022	09:13:06	Blue Spyder	Printer Online
+[STARTUP]	14/03/2022	09:13:26	BOOT
+[STARTUP]	14/03/2022	09:13:26	Green Spyder	Printer Online
+[STARTUP]	14/03/2022	09:13:26	Black Spyder	Printer Online
+[STARTUP]	14/03/2022	09:13:26	Yellow Spyder	Printer Online
+[STARTUP]	14/03/2022	09:13:26	White Spyder	Printer Online
+[STARTUP]	14/03/2022	09:13:26	Blue Spyder	Printer Online
+[STARTUP]	14/03/2022	09:13:32	BOOT
+[STARTUP]	14/03/2022	09:13:32	Green Spyder	Printer Online
+[STARTUP]	14/03/2022	09:13:32	Black Spyder	Printer Online
+[STARTUP]	14/03/2022	09:13:32	Yellow Spyder	Printer Online
+[STARTUP]	14/03/2022	09:13:32	White Spyder	Printer Online
+[STARTUP]	14/03/2022	09:13:32	Blue Spyder	Printer Online
+[STARTUP]	14/03/2022	09:13:35	BOOT
+[STARTUP]	14/03/2022	09:13:35	Green Spyder	Printer Online
+[STARTUP]	14/03/2022	09:13:35	Black Spyder	Printer Online
+[STARTUP]	14/03/2022	09:13:35	Yellow Spyder	Printer Online
+[STARTUP]	14/03/2022	09:13:35	White Spyder	Printer Online
+[STARTUP]	14/03/2022	09:13:35	Blue Spyder	Printer Online
+[STARTUP]	14/03/2022	09:13:45	BOOT
+[STARTUP]	14/03/2022	09:13:45	Green Spyder	Printer Online
+[STARTUP]	14/03/2022	09:13:45	Black Spyder	Printer Online
+[STARTUP]	14/03/2022	09:13:45	Yellow Spyder	Printer Online
+[STARTUP]	14/03/2022	09:13:45	White Spyder	Printer Online
+[STARTUP]	14/03/2022	09:13:45	Blue Spyder	Printer Online
+[LOG]	14/03/2022	09:14:06	Black Spyder	Status Change: Failed
+[STARTUP]	14/03/2022	09:14:12	BOOT
+[STARTUP]	14/03/2022	09:14:12	Green Spyder	Printer Online
+[STARTUP]	14/03/2022	09:14:12	Black Spyder	Printer Offline
+[STARTUP]	14/03/2022	09:14:12	Yellow Spyder	Printer Online
+[STARTUP]	14/03/2022	09:14:12	White Spyder	Printer Online
+[STARTUP]	14/03/2022	09:14:12	Blue Spyder	Printer Online
+[STARTUP]	14/03/2022	09:14:29	BOOT
+[STARTUP]	14/03/2022	09:14:29	Green Spyder	Printer Online
+[STARTUP]	14/03/2022	09:14:29	Black Spyder	Printer Offline
+[STARTUP]	14/03/2022	09:14:29	Yellow Spyder	Printer Online
+[STARTUP]	14/03/2022	09:14:29	White Spyder	Printer Online
+[STARTUP]	14/03/2022	09:14:29	Blue Spyder	Printer Online
+[LOG]	14/03/2022	09:26:34	Green Spyder	Status Change: Busy
+[LOG]	14/03/2022	09:27:34	Green Spyder	Status Change: Idle
+[LOG]	14/03/2022	09:27:54	Green Spyder	Status Change: Busy
+[LOG]	14/03/2022	09:28:55	Green Spyder	Status Change: Idle
+[LOG]	14/03/2022	09:33:16	Yellow Spyder	Status Change: Printing
+[LOG]	14/03/2022	09:33:17	Job Started: Flexi-Rex-improved.gcode
+[LOG]	14/03/2022	09:40:41	Green Spyder	Status Change: Busy
+[LOG]	14/03/2022	09:41:01	Green Spyder	Status Change: Idle
+[LOG]	14/03/2022	09:41:41	Green Spyder	Status Change: Busy
+[LOG]	14/03/2022	09:42:01	Green Spyder	Status Change: Idle
+[STARTUP]	14/03/2022	09:45:54	BOOT
+[STARTUP]	14/03/2022	09:45:54	Green Spyder	Printer Online
+[STARTUP]	14/03/2022	09:45:54	Black Spyder	Printer Online
+[STARTUP]	14/03/2022	09:45:54	Yellow Spyder	Printer Online
+[STARTUP]	14/03/2022	09:45:54	White Spyder	Printer Online
+[STARTUP]	14/03/2022	09:45:54	Blue Spyder	Printer Online
+[STARTUP]	14/03/2022	09:46:11	BOOT
+[STARTUP]	14/03/2022	09:46:11	Green Spyder	Printer Online
+[STARTUP]	14/03/2022	09:46:11	Black Spyder	Printer Online
+[STARTUP]	14/03/2022	09:46:11	Yellow Spyder	Printer Online
+[STARTUP]	14/03/2022	09:46:11	White Spyder	Printer Online
+[STARTUP]	14/03/2022	09:46:11	Blue Spyder	Printer Online
+[LOG]	14/03/2022	09:48:53	Green Spyder	Status Change: Printing
+[LOG]	14/03/2022	09:48:53	Green Spyder	Job Started: 
+[LOG]	14/03/2022	09:52:15	Green Spyder	Status Change: Paused
+[LOG]	14/03/2022	09:52:36	Green Spyder	Status Change: Printing
+[LOG]	14/03/2022	09:53:16	Green Spyder	Status Change: Busy
+[LOG]	14/03/2022	09:53:36	Green Spyder	Status Change: Idle
+[ERROR]	14/03/2022	09:53:36	Green Spyder	Could not send email to user: Final_Light_Housing_2_add-on_L_T6
+[LOG]	14/03/2022	09:54:37	Green Spyder	Status Change: Printing
+[LOG]	14/03/2022	09:54:37	Green Spyder	Job Started: 
+[LOG]	14/03/2022	10:33:08	Green Spyder	Status Change: Idle
+[ERROR]	14/03/2022	10:33:08	Green Spyder	Could not send email to user: Final_Light_Housing_2_add-on_L_T6
+[LOG]	14/03/2022	10:52:40	Green Spyder	Status Change: Printing
+[LOG]	14/03/2022	10:52:40	Green Spyder	Job Started: 
+[STARTUP]	14/03/2022	11:00:22	BOOT
+[STARTUP]	14/03/2022	11:00:22	Green Spyder	Printer Online
+[STARTUP]	14/03/2022	11:00:22	Black Spyder	Printer Online
+[STARTUP]	14/03/2022	11:00:22	Yellow Spyder	Printer Online
+[STARTUP]	14/03/2022	11:00:22	White Spyder	Printer Online
+[STARTUP]	14/03/2022	11:00:22	Blue Spyder	Printer Online
+[STARTUP]	14/03/2022	11:01:26	BOOT
+[STARTUP]	14/03/2022	11:01:26	Green Spyder	Printer Online
+[STARTUP]	14/03/2022	11:01:26	Black Spyder	Printer Online
+[STARTUP]	14/03/2022	11:01:26	Yellow Spyder	Printer Online
+[STARTUP]	14/03/2022	11:01:26	White Spyder	Printer Online
+[STARTUP]	14/03/2022	11:01:26	Blue Spyder	Printer Online
+[STARTUP]	14/03/2022	11:02:11	BOOT
+[STARTUP]	14/03/2022	11:02:11	Green Spyder	Printer Online
+[STARTUP]	14/03/2022	11:02:11	Black Spyder	Printer Online
+[STARTUP]	14/03/2022	11:02:11	Yellow Spyder	Printer Online
+[STARTUP]	14/03/2022	11:02:11	White Spyder	Printer Online
+[STARTUP]	14/03/2022	11:02:11	Blue Spyder	Printer Online
+[STARTUP]	14/03/2022	11:02:48	BOOT
+[STARTUP]	14/03/2022	11:02:48	Green Spyder	Printer Online
+[STARTUP]	14/03/2022	11:02:48	Black Spyder	Printer Online
+[STARTUP]	14/03/2022	11:02:48	Yellow Spyder	Printer Online
+[STARTUP]	14/03/2022	11:02:48	White Spyder	Printer Online
+[STARTUP]	14/03/2022	11:02:48	Blue Spyder	Printer Online
+[STARTUP]	14/03/2022	11:04:00	BOOT
+[STARTUP]	14/03/2022	11:04:00	Green Spyder	Printer Online
+[STARTUP]	14/03/2022	11:04:00	Black Spyder	Printer Online
+[STARTUP]	14/03/2022	11:04:00	Yellow Spyder	Printer Online
+[STARTUP]	14/03/2022	11:04:00	White Spyder	Printer Online
+[STARTUP]	14/03/2022	11:04:00	Blue Spyder	Printer Online
+[STARTUP]	14/03/2022	11:04:16	BOOT
+[STARTUP]	14/03/2022	11:04:16	Green Spyder	Printer Online
+[STARTUP]	14/03/2022	11:04:16	Black Spyder	Printer Online
+[STARTUP]	14/03/2022	11:04:16	Yellow Spyder	Printer Online
+[STARTUP]	14/03/2022	11:04:16	White Spyder	Printer Online
+[STARTUP]	14/03/2022	11:04:16	Blue Spyder	Printer Online
+[STARTUP]	14/03/2022	11:04:42	BOOT
+[STARTUP]	14/03/2022	11:04:42	Green Spyder	Printer Online
+[STARTUP]	14/03/2022	11:04:42	Black Spyder	Printer Online
+[STARTUP]	14/03/2022	11:04:42	Yellow Spyder	Printer Online
+[STARTUP]	14/03/2022	11:04:42	White Spyder	Printer Online
+[STARTUP]	14/03/2022	11:04:42	Blue Spyder	Printer Online
+[STARTUP]	14/03/2022	11:05:52	BOOT
+[STARTUP]	14/03/2022	11:05:52	Green Spyder	Printer Online
+[STARTUP]	14/03/2022	11:05:52	Black Spyder	Printer Online
+[STARTUP]	14/03/2022	11:05:52	Yellow Spyder	Printer Online
+[STARTUP]	14/03/2022	11:05:52	White Spyder	Printer Online
+[STARTUP]	14/03/2022	11:05:52	Blue Spyder	Printer Online
+[LOG]	14/03/2022	11:05:53	Green Spyder	Status Change: Printing
+[LOG]	14/03/2022	11:05:53	Green Spyder	Job Started: 
+[LOG]	14/03/2022	11:05:53	Black Spyder	Status Change: Idle
+[LOG]	14/03/2022	11:05:53	Yellow Spyder	Status Change: Printing
+[LOG]	14/03/2022	11:05:53	Yellow Spyder	Job Started: Flexi-Rex-improved.gcode
+[LOG]	14/03/2022	11:05:53	White Spyder	Status Change: Idle
+[LOG]	14/03/2022	11:05:53	Blue Spyder	Status Change: Idle
+[STARTUP]	14/03/2022	11:07:53	BOOT
+[STARTUP]	14/03/2022	11:07:53	Green Spyder	Printer Online
+[STARTUP]	14/03/2022	11:07:53	Black Spyder	Printer Online
+[STARTUP]	14/03/2022	11:07:53	Yellow Spyder	Printer Online
+[STARTUP]	14/03/2022	11:07:53	White Spyder	Printer Online
+[STARTUP]	14/03/2022	11:07:53	Blue Spyder	Printer Online
+[LOG]	14/03/2022	11:07:53	Green Spyder	Status Change: Printing
+[LOG]	14/03/2022	11:07:53	Green Spyder	Job Started: 
+[LOG]	14/03/2022	11:07:53	Black Spyder	Status Change: Idle
+[LOG]	14/03/2022	11:07:53	Yellow Spyder	Status Change: Printing
+[LOG]	14/03/2022	11:07:54	Yellow Spyder	Job Started: Flexi-Rex-improved.gcode
+[LOG]	14/03/2022	11:07:54	White Spyder	Status Change: Idle
+[LOG]	14/03/2022	11:07:54	Blue Spyder	Status Change: Idle
+[STARTUP]	14/03/2022	11:08:26	BOOT
+[STARTUP]	14/03/2022	11:08:26	Green Spyder	Printer Online
+[STARTUP]	14/03/2022	11:08:26	Black Spyder	Printer Online
+[STARTUP]	14/03/2022	11:08:26	Yellow Spyder	Printer Online
+[STARTUP]	14/03/2022	11:08:26	White Spyder	Printer Online
+[STARTUP]	14/03/2022	11:08:26	Blue Spyder	Printer Online
+[LOG]	14/03/2022	11:08:26	Green Spyder	Status Change: Printing
+[LOG]	14/03/2022	11:08:26	Green Spyder	Job Started: 
+[LOG]	14/03/2022	11:08:26	Black Spyder	Status Change: Idle
+[LOG]	14/03/2022	11:08:26	Yellow Spyder	Status Change: Printing
+[LOG]	14/03/2022	11:08:27	Yellow Spyder	Job Started: Flexi-Rex-improved.gcode
+[LOG]	14/03/2022	11:08:27	White Spyder	Status Change: Idle
+[LOG]	14/03/2022	11:08:27	Blue Spyder	Status Change: Idle
+[STARTUP]	14/03/2022	11:09:42	BOOT
+[STARTUP]	14/03/2022	11:09:42	Green Spyder	Printer Online
+[STARTUP]	14/03/2022	11:09:42	Black Spyder	Printer Online
+[STARTUP]	14/03/2022	11:09:42	Yellow Spyder	Printer Online
+[STARTUP]	14/03/2022	11:09:42	White Spyder	Printer Online
+[STARTUP]	14/03/2022	11:09:42	Blue Spyder	Printer Online
+[LOG]	14/03/2022	11:09:43	Green Spyder	Status Change: Printing
+[LOG]	14/03/2022	11:09:43	Green Spyder	Job Started: 
+[LOG]	14/03/2022	11:09:43	Black Spyder	Status Change: Idle
+[LOG]	14/03/2022	11:09:43	Yellow Spyder	Status Change: Printing
+[LOG]	14/03/2022	11:09:43	Yellow Spyder	Job Started: Flexi-Rex-improved.gcode
+[LOG]	14/03/2022	11:09:43	White Spyder	Status Change: Idle
+[LOG]	14/03/2022	11:09:43	Blue Spyder	Status Change: Idle
+[STARTUP]	14/03/2022	11:10:25	BOOT
+[STARTUP]	14/03/2022	11:10:25	Green Spyder	Printer Online
+[STARTUP]	14/03/2022	11:10:25	Black Spyder	Printer Online
+[STARTUP]	14/03/2022	11:10:25	Yellow Spyder	Printer Online
+[STARTUP]	14/03/2022	11:10:25	White Spyder	Printer Online
+[STARTUP]	14/03/2022	11:10:25	Blue Spyder	Printer Online
+[LOG]	14/03/2022	11:10:26	Green Spyder	Status Change: Printing
+[LOG]	14/03/2022	11:10:26	Green Spyder	Job Started: 
+[LOG]	14/03/2022	11:10:26	Black Spyder	Status Change: Idle
+[LOG]	14/03/2022	11:10:26	Yellow Spyder	Status Change: Printing
+[LOG]	14/03/2022	11:10:26	Yellow Spyder	Job Started: Flexi-Rex-improved.gcode
+[LOG]	14/03/2022	11:10:26	White Spyder	Status Change: Idle
+[LOG]	14/03/2022	11:10:26	Blue Spyder	Status Change: Idle
+[STARTUP]	14/03/2022	11:28:52	BOOT
+[STARTUP]	14/03/2022	11:28:52	Green Spyder	Printer Online
+[STARTUP]	14/03/2022	11:28:52	Black Spyder	Printer Online
+[STARTUP]	14/03/2022	11:28:52	Yellow Spyder	Printer Online
+[STARTUP]	14/03/2022	11:28:52	White Spyder	Printer Online
+[STARTUP]	14/03/2022	11:28:52	Blue Spyder	Printer Online
+[LOG]	14/03/2022	11:28:53	Green Spyder	Status Change: Printing
+[LOG]	14/03/2022	11:28:54	Green Spyder	Job Started: LEDSpringPinHolder.gcode
+[LOG]	14/03/2022	11:28:54	Black Spyder	Status Change: Idle
+[LOG]	14/03/2022	11:28:54	Yellow Spyder	Status Change: Printing
+[LOG]	14/03/2022	11:28:54	Yellow Spyder	Job Started: Flexi-Rex-improved.gcode
+[LOG]	14/03/2022	11:28:54	White Spyder	Status Change: Idle
+[LOG]	14/03/2022	11:28:54	Blue Spyder	Status Change: Idle
+[STARTUP]	14/03/2022	11:30:34	BOOT
+[STARTUP]	14/03/2022	11:30:34	Green Spyder	Printer Online
+[STARTUP]	14/03/2022	11:30:34	Black Spyder	Printer Online
+[STARTUP]	14/03/2022	11:30:34	Yellow Spyder	Printer Online
+[STARTUP]	14/03/2022	11:30:34	White Spyder	Printer Online
+[STARTUP]	14/03/2022	11:30:34	Blue Spyder	Printer Online
+[STARTUP]	14/03/2022	11:31:36	BOOT
+[STARTUP]	14/03/2022	11:31:36	Green Spyder	Printer Online
+[STARTUP]	14/03/2022	11:31:36	Black Spyder	Printer Online
+[STARTUP]	14/03/2022	11:31:36	Yellow Spyder	Printer Online
+[STARTUP]	14/03/2022	11:31:36	White Spyder	Printer Online
+[STARTUP]	14/03/2022	11:31:36	Blue Spyder	Printer Online
+[LOG]	14/03/2022	11:32:16	Green Spyder	Status Change: Idle
+[STARTUP]	14/03/2022	11:32:41	BOOT
+[STARTUP]	14/03/2022	11:32:41	Green Spyder	Printer Online
+[STARTUP]	14/03/2022	11:32:41	Black Spyder	Printer Online
+[STARTUP]	14/03/2022	11:32:41	Yellow Spyder	Printer Online
+[STARTUP]	14/03/2022	11:32:41	White Spyder	Printer Online
+[STARTUP]	14/03/2022	11:32:41	Blue Spyder	Printer Online
+[STARTUP]	14/03/2022	11:33:33	BOOT
+[STARTUP]	14/03/2022	11:33:33	Green Spyder	Printer Online
+[STARTUP]	14/03/2022	11:33:33	Black Spyder	Printer Online
+[STARTUP]	14/03/2022	11:33:33	Yellow Spyder	Printer Online
+[STARTUP]	14/03/2022	11:33:33	White Spyder	Printer Online
+[STARTUP]	14/03/2022	11:33:33	Blue Spyder	Printer Online
+[STARTUP]	14/03/2022	11:34:12	BOOT
+[STARTUP]	14/03/2022	11:34:12	Green Spyder	Printer Online
+[STARTUP]	14/03/2022	11:34:12	Black Spyder	Printer Online
+[STARTUP]	14/03/2022	11:34:12	Yellow Spyder	Printer Online
+[STARTUP]	14/03/2022	11:34:12	White Spyder	Printer Online
+[STARTUP]	14/03/2022	11:34:12	Blue Spyder	Printer Online
+[STARTUP]	14/03/2022	11:35:11	BOOT
+[STARTUP]	14/03/2022	11:35:11	Green Spyder	Printer Online
+[STARTUP]	14/03/2022	11:35:11	Black Spyder	Printer Online
+[STARTUP]	14/03/2022	11:35:11	Yellow Spyder	Printer Online
+[STARTUP]	14/03/2022	11:35:11	White Spyder	Printer Online
+[STARTUP]	14/03/2022	11:35:11	Blue Spyder	Printer Online
+[STARTUP]	14/03/2022	11:35:59	BOOT
+[STARTUP]	14/03/2022	11:35:59	Green Spyder	Printer Online
+[STARTUP]	14/03/2022	11:35:59	Black Spyder	Printer Online
+[STARTUP]	14/03/2022	11:35:59	Yellow Spyder	Printer Online
+[STARTUP]	14/03/2022	11:35:59	White Spyder	Printer Online
+[STARTUP]	14/03/2022	11:35:59	Blue Spyder	Printer Online
+[LOG]	14/03/2022	11:35:59	Green Spyder	Status Change: Idle
+[LOG]	14/03/2022	11:35:59	Black Spyder	Status Change: Idle
+[LOG]	14/03/2022	11:35:59	Yellow Spyder	Status Change: Printing
+[LOG]	14/03/2022	11:35:59	Yellow Spyder	Job Started: Flexi-Rex-improved.gcode
+[LOG]	14/03/2022	11:35:59	White Spyder	Status Change: Idle
+[LOG]	14/03/2022	11:35:59	Blue Spyder	Status Change: Idle
+[LOG]	14/03/2022	11:36:20	Green Spyder	Status Change: Idle
+[LOG]	14/03/2022	11:36:20	Black Spyder	Status Change: Idle
+[LOG]	14/03/2022	11:36:20	Yellow Spyder	Status Change: Printing
+[LOG]	14/03/2022	11:36:20	White Spyder	Status Change: Idle
+[LOG]	14/03/2022	11:36:20	Blue Spyder	Status Change: Idle
+[LOG]	14/03/2022	11:36:40	Green Spyder	Status Change: Idle
+[LOG]	14/03/2022	11:36:40	Black Spyder	Status Change: Idle
+[LOG]	14/03/2022	11:36:40	Yellow Spyder	Status Change: Printing
+[LOG]	14/03/2022	11:36:40	White Spyder	Status Change: Idle
+[LOG]	14/03/2022	11:36:40	Blue Spyder	Status Change: Idle
+[LOG]	14/03/2022	11:37:00	Green Spyder	Status Change: Idle
+[LOG]	14/03/2022	11:37:00	Black Spyder	Status Change: Idle
+[LOG]	14/03/2022	11:37:00	Yellow Spyder	Status Change: Printing
+[LOG]	14/03/2022	11:37:00	White Spyder	Status Change: Idle
+[LOG]	14/03/2022	11:37:00	Blue Spyder	Status Change: Idle
+[STARTUP]	14/03/2022	11:37:21	BOOT
+[STARTUP]	14/03/2022	11:37:21	Green Spyder	Printer Online
+[STARTUP]	14/03/2022	11:37:21	Black Spyder	Printer Online
+[STARTUP]	14/03/2022	11:37:21	Yellow Spyder	Printer Online
+[STARTUP]	14/03/2022	11:37:21	White Spyder	Printer Online
+[STARTUP]	14/03/2022	11:37:21	Blue Spyder	Printer Online
+[LOG]	14/03/2022	11:37:21	Green Spyder	Status Change: Idle
+[LOG]	14/03/2022	11:37:21	Black Spyder	Status Change: Idle
+[LOG]	14/03/2022	11:37:21	Yellow Spyder	Status Change: Printing
+[LOG]	14/03/2022	11:37:21	Yellow Spyder	Job Started: Flexi-Rex-improved.gcode
+[LOG]	14/03/2022	11:37:21	White Spyder	Status Change: Idle
+[LOG]	14/03/2022	11:37:21	Blue Spyder	Status Change: Idle
+[STARTUP]	14/03/2022	11:38:03	BOOT
+[STARTUP]	14/03/2022	11:38:03	Green Spyder	Printer Online
+[STARTUP]	14/03/2022	11:38:03	Black Spyder	Printer Online
+[STARTUP]	14/03/2022	11:38:03	Yellow Spyder	Printer Online
+[STARTUP]	14/03/2022	11:38:03	White Spyder	Printer Online
+[STARTUP]	14/03/2022	11:38:03	Blue Spyder	Printer Online
+[LOG]	14/03/2022	11:38:03	Green Spyder	Status Change: Idle
+[LOG]	14/03/2022	11:38:03	Black Spyder	Status Change: Idle
+[LOG]	14/03/2022	11:38:03	Yellow Spyder	Status Change: Printing
+[LOG]	14/03/2022	11:38:03	Yellow Spyder	Job Started: Flexi-Rex-improved.gcode
+[LOG]	14/03/2022	11:38:03	White Spyder	Status Change: Idle
+[LOG]	14/03/2022	11:38:03	Blue Spyder	Status Change: Idle
+[STARTUP]	14/03/2022	11:38:22	BOOT
+[STARTUP]	14/03/2022	11:38:22	Green Spyder	Printer Online
+[STARTUP]	14/03/2022	11:38:22	Black Spyder	Printer Online
+[STARTUP]	14/03/2022	11:38:22	Yellow Spyder	Printer Online
+[STARTUP]	14/03/2022	11:38:22	White Spyder	Printer Online
+[STARTUP]	14/03/2022	11:38:22	Blue Spyder	Printer Online
+[STARTUP]	14/03/2022	11:39:35	BOOT
+[STARTUP]	14/03/2022	11:39:35	Green Spyder	Printer Online
+[STARTUP]	14/03/2022	11:39:35	Black Spyder	Printer Online
+[STARTUP]	14/03/2022	11:39:35	Yellow Spyder	Printer Online
+[STARTUP]	14/03/2022	11:39:35	White Spyder	Printer Online
+[STARTUP]	14/03/2022	11:39:35	Blue Spyder	Printer Online
+[STARTUP]	14/03/2022	11:39:48	BOOT
+[STARTUP]	14/03/2022	11:39:48	Green Spyder	Printer Online
+[STARTUP]	14/03/2022	11:39:48	Black Spyder	Printer Online
+[STARTUP]	14/03/2022	11:39:48	Yellow Spyder	Printer Online
+[STARTUP]	14/03/2022	11:39:48	White Spyder	Printer Online
+[STARTUP]	14/03/2022	11:39:48	Blue Spyder	Printer Online
+[LOG]	14/03/2022	11:39:48	Green Spyder	Status Change: Idle
+[LOG]	14/03/2022	11:39:48	Black Spyder	Status Change: Idle
+[LOG]	14/03/2022	11:39:48	Yellow Spyder	Status Change: Printing
+[LOG]	14/03/2022	11:39:48	Yellow Spyder	Job Started: Flexi-Rex-improved.gcode
+[LOG]	14/03/2022	11:39:48	White Spyder	Status Change: Idle
+[LOG]	14/03/2022	11:39:48	Blue Spyder	Status Change: Idle
+[STARTUP]	14/03/2022	11:40:26	BOOT
+[STARTUP]	14/03/2022	11:40:26	Green Spyder	Printer Online
+[STARTUP]	14/03/2022	11:40:26	Black Spyder	Printer Online
+[STARTUP]	14/03/2022	11:40:26	Yellow Spyder	Printer Online
+[STARTUP]	14/03/2022	11:40:26	White Spyder	Printer Online
+[STARTUP]	14/03/2022	11:40:26	Blue Spyder	Printer Online
+[LOG]	14/03/2022	11:40:26	Green Spyder	Status Change: Idle
+[LOG]	14/03/2022	11:40:26	Black Spyder	Status Change: Idle
+[LOG]	14/03/2022	11:40:26	Yellow Spyder	Status Change: Printing
+[LOG]	14/03/2022	11:40:26	Yellow Spyder	Job Started: Flexi-Rex-improved.gcode
+[LOG]	14/03/2022	11:40:26	White Spyder	Status Change: Idle
+[LOG]	14/03/2022	11:40:26	Blue Spyder	Status Change: Idle
+[LOG]	14/03/2022	11:57:17	Yellow Spyder	Status Change: Idle
+[LOG]	14/03/2022	11:57:18	Yellow Spyder	Email sent to jesse.sestito@valpo.edu
+[LOG]	14/03/2022	12:33:55	Green Spyder	Status Change: Printing
+[LOG]	14/03/2022	12:33:55	Green Spyder	Job Started: LEDSpringPinHolder.gcode
+[LOG]	14/03/2022	13:14:00	Green Spyder	Status Change: Idle
+[LOG]	14/03/2022	13:14:02	Green Spyder	Email sent to matthew.campbell@valpo.edu
+[STARTUP]	22/03/2022	09:15:48	BOOT
+[STARTUP]	22/03/2022	09:15:48	Green Spyder	Printer Online
+[STARTUP]	22/03/2022	09:15:48	Black Spyder	Printer Online
+[STARTUP]	22/03/2022	09:15:48	Yellow Spyder	Printer Online
+[STARTUP]	22/03/2022	09:15:48	White Spyder	Printer Online
+[STARTUP]	22/03/2022	09:15:48	Blue Spyder	Printer Online
+[LOG]	22/03/2022	09:15:49	Green Spyder	Status Change: Printing
+[LOG]	22/03/2022	09:15:50	Green Spyder	Job Started: Chassis-HalfBody.gcode
+[LOG]	22/03/2022	09:15:50	Black Spyder	Status Change: Idle
+[LOG]	22/03/2022	09:15:50	Yellow Spyder	Status Change: Idle
+[LOG]	22/03/2022	09:15:50	White Spyder	Status Change: Idle
+[LOG]	22/03/2022	09:15:50	Blue Spyder	Status Change: Idle
+[STARTUP]	22/03/2022	09:17:48	BOOT
+[STARTUP]	22/03/2022	09:17:48	Green Spyder	Printer Online
+[STARTUP]	22/03/2022	09:17:48	Black Spyder	Printer Online
+[STARTUP]	22/03/2022	09:17:48	Yellow Spyder	Printer Online
+[STARTUP]	22/03/2022	09:17:48	White Spyder	Printer Online
+[STARTUP]	22/03/2022	09:17:48	Blue Spyder	Printer Online
+[LOG]	22/03/2022	09:17:49	Green Spyder	Status Change: Printing
+[LOG]	22/03/2022	09:17:50	Green Spyder	Job Started: Chassis-HalfBody.gcode
+[LOG]	22/03/2022	09:17:50	Black Spyder	Status Change: Idle
+[LOG]	22/03/2022	09:17:50	Yellow Spyder	Status Change: Idle
+[LOG]	22/03/2022	09:17:50	White Spyder	Status Change: Idle
+[LOG]	22/03/2022	09:17:50	Blue Spyder	Status Change: Idle
+[STARTUP]	22/03/2022	09:18:34	BOOT
+[STARTUP]	22/03/2022	09:18:34	Green Spyder	Printer Online
+[STARTUP]	22/03/2022	09:18:34	Black Spyder	Printer Online
+[STARTUP]	22/03/2022	09:18:34	Yellow Spyder	Printer Online
+[STARTUP]	22/03/2022	09:18:34	White Spyder	Printer Online
+[STARTUP]	22/03/2022	09:18:34	Blue Spyder	Printer Online
+[LOG]	22/03/2022	09:18:34	Green Spyder	Status Change: Printing
+[LOG]	22/03/2022	09:18:35	Green Spyder	Job Started: Chassis-HalfBody.gcode
+[LOG]	22/03/2022	09:18:35	Black Spyder	Status Change: Idle
+[LOG]	22/03/2022	09:18:35	Yellow Spyder	Status Change: Idle
+[LOG]	22/03/2022	09:18:35	White Spyder	Status Change: Idle
+[LOG]	22/03/2022	09:18:35	Blue Spyder	Status Change: Idle
+[LOG]	22/03/2022	09:19:03	Blue Spyder	Status Change: Printing
+[LOG]	22/03/2022	09:19:03	Blue Spyder	Job Started: Bridging_Test_50.gcode
+[LOG]	22/03/2022	09:20:20	Blue Spyder	Status Change: Failed
+[STARTUP]	22/03/2022	09:20:29	BOOT
+[STARTUP]	22/03/2022	09:20:29	Green Spyder	Printer Online
+[STARTUP]	22/03/2022	09:20:29	Black Spyder	Printer Online
+[STARTUP]	22/03/2022	09:20:29	Yellow Spyder	Printer Online
+[STARTUP]	22/03/2022	09:20:29	White Spyder	Printer Online
+[STARTUP]	22/03/2022	09:20:29	Blue Spyder	Printer Online
+[LOG]	22/03/2022	09:20:30	Green Spyder	Status Change: Printing
+[LOG]	22/03/2022	09:20:31	Green Spyder	Job Started: Chassis-HalfBody.gcode
+[LOG]	22/03/2022	09:20:31	Black Spyder	Status Change: Idle
+[LOG]	22/03/2022	09:20:31	Yellow Spyder	Status Change: Idle
+[LOG]	22/03/2022	09:20:31	White Spyder	Status Change: Idle
+[LOG]	22/03/2022	09:20:31	Blue Spyder	Status Change: Printing
+[LOG]	22/03/2022	09:20:31	Blue Spyder	Job Started: Bridging_Test_50.gcode
+[LOG]	22/03/2022	09:20:54	Blue Spyder	Status Change: Halted
+[LOG]	22/03/2022	09:20:58	Blue Spyder	Status Change: Idle
+[LOG]	22/03/2022	09:20:59	Blue Spyder	Email sent to jesse.sestito@valpo.edu
+[STARTUP]	22/03/2022	09:22:17	BOOT
+[STARTUP]	22/03/2022	09:22:17	Green Spyder	Printer Online
+[STARTUP]	22/03/2022	09:22:17	Black Spyder	Printer Online
+[STARTUP]	22/03/2022	09:22:17	Yellow Spyder	Printer Online
+[STARTUP]	22/03/2022	09:22:17	White Spyder	Printer Online
+[STARTUP]	22/03/2022	09:22:17	Blue Spyder	Printer Online
+[LOG]	22/03/2022	09:22:18	Green Spyder	Status Change: Printing
+[LOG]	22/03/2022	09:22:19	Green Spyder	Job Started: Chassis-HalfBody.gcode
+[LOG]	22/03/2022	09:22:19	Black Spyder	Status Change: Idle
+[LOG]	22/03/2022	09:22:19	Yellow Spyder	Status Change: Idle
+[LOG]	22/03/2022	09:22:19	White Spyder	Status Change: Idle
+[LOG]	22/03/2022	09:22:19	Blue Spyder	Status Change: Printing
+[LOG]	22/03/2022	09:22:19	Blue Spyder	Job Started: Bridging_Test_50.gcode
+[LOG]	22/03/2022	09:22:24	Blue Spyder	Status Change: Pausing
+[LOG]	22/03/2022	09:22:25	Blue Spyder	Status Change: Paused
+[LOG]	22/03/2022	09:22:33	Blue Spyder	Status Change: Printing
+[LOG]	22/03/2022	09:23:35	Blue Spyder	Status Change: Paused
+[LOG]	22/03/2022	09:23:42	Blue Spyder	Status Change: Idle
+[LOG]	22/03/2022	09:23:42	Blue Spyder	Email sent to jesse.sestito@valpo.edu
+[LOG]	22/03/2022	09:23:52	Blue Spyder	Status Change: Printing
+[LOG]	22/03/2022	09:23:52	Blue Spyder	Job Started: Bridging_Test_50.gcode
+[LOG]	22/03/2022	09:24:05	Blue Spyder	Status Change: Halted
+[LOG]	22/03/2022	09:24:09	Blue Spyder	Status Change: Idle
+[LOG]	22/03/2022	09:24:10	Blue Spyder	Email sent to jesse.sestito@valpo.edu
+[STARTUP]	22/03/2022	09:26:57	BOOT
+[STARTUP]	22/03/2022	09:26:57	Green Spyder	Printer Online
+[STARTUP]	22/03/2022	09:26:57	Black Spyder	Printer Online
+[STARTUP]	22/03/2022	09:26:57	Yellow Spyder	Printer Online
+[STARTUP]	22/03/2022	09:26:57	White Spyder	Printer Online
+[STARTUP]	22/03/2022	09:26:57	Blue Spyder	Printer Online
+[LOG]	22/03/2022	09:26:57	Green Spyder	Status Change: Printing
+[LOG]	22/03/2022	09:26:59	Green Spyder	Job Started: Chassis-HalfBody.gcode
+[LOG]	22/03/2022	09:26:59	Black Spyder	Status Change: Idle
+[LOG]	22/03/2022	09:26:59	Yellow Spyder	Status Change: Idle
+[LOG]	22/03/2022	09:26:59	White Spyder	Status Change: Idle
+[LOG]	22/03/2022	09:26:59	Blue Spyder	Status Change: Idle
+[LOG]	22/03/2022	09:27:24	Blue Spyder	Status Change: Printing
+[LOG]	22/03/2022	09:27:24	Blue Spyder	Job Started: Bridging_Test_50.gcode
+[LOG]	22/03/2022	09:27:36	Blue Spyder	Status Change: Failed
+[LOG]	22/03/2022	09:27:38	Blue Spyder	Status Change: Idle
+[LOG]	22/03/2022	09:27:39	Blue Spyder	Email sent to jesse.sestito@valpo.edu
+[STARTUP]	22/03/2022	09:29:13	BOOT
+[STARTUP]	22/03/2022	09:29:13	Green Spyder	Printer Online
+[STARTUP]	22/03/2022	09:29:13	Black Spyder	Printer Online
+[STARTUP]	22/03/2022	09:29:13	Yellow Spyder	Printer Online
+[STARTUP]	22/03/2022	09:29:13	White Spyder	Printer Online
+[STARTUP]	22/03/2022	09:29:13	Blue Spyder	Printer Online
+[LOG]	22/03/2022	09:29:13	Green Spyder	Status Change: Printing
+[LOG]	22/03/2022	09:29:15	Green Spyder	Job Started: Chassis-HalfBody.gcode
+[LOG]	22/03/2022	09:29:15	Black Spyder	Status Change: Idle
+[LOG]	22/03/2022	09:29:15	Yellow Spyder	Status Change: Idle
+[LOG]	22/03/2022	09:29:15	White Spyder	Status Change: Idle
+[LOG]	22/03/2022	09:29:15	Blue Spyder	Status Change: Printing
+[LOG]	22/03/2022	09:29:15	Blue Spyder	Job Started: Bridging_Test_50.gcode
+[LOG]	22/03/2022	09:30:00	Blue Spyder	Status Change: Halted
+[LOG]	22/03/2022	09:30:01	Blue Spyder	Email sent to jesse.sestito@valpo.edu
+[LOG]	22/03/2022	09:30:04	Blue Spyder	Status Change: Idle
+[STARTUP]	22/03/2022	09:35:42	BOOT
+[STARTUP]	22/03/2022	09:35:42	Green Spyder	Printer Online
+[STARTUP]	22/03/2022	09:35:42	Black Spyder	Printer Online
+[STARTUP]	22/03/2022	09:35:42	Yellow Spyder	Printer Online
+[STARTUP]	22/03/2022	09:35:42	White Spyder	Printer Online
+[STARTUP]	22/03/2022	09:35:42	Blue Spyder	Printer Online
+[LOG]	22/03/2022	09:35:42	Green Spyder	Status Change: Printing
+[LOG]	22/03/2022	09:35:44	Green Spyder	Job Started: Chassis-HalfBody.gcode
+[LOG]	22/03/2022	09:35:44	Black Spyder	Status Change: Idle
+[LOG]	22/03/2022	09:35:44	Yellow Spyder	Status Change: Idle
+[LOG]	22/03/2022	09:35:44	White Spyder	Status Change: Idle
+[LOG]	22/03/2022	09:35:44	Blue Spyder	Status Change: Printing
+[LOG]	22/03/2022	09:35:44	Blue Spyder	Job Started: Bridging_Test_50.gcode
+[LOG]	22/03/2022	09:36:01	Blue Spyder	Status Change: Failed
+[LOG]	22/03/2022	09:36:08	Blue Spyder	Status Change: Offline
+[STARTUP]	22/03/2022	09:44:07	BOOT
+[STARTUP]	22/03/2022	09:44:07	Green Spyder	Printer Online
+[STARTUP]	22/03/2022	09:44:07	Black Spyder	Printer Online
+[STARTUP]	22/03/2022	09:44:07	Yellow Spyder	Printer Online
+[STARTUP]	22/03/2022	09:44:07	White Spyder	Printer Online
+[STARTUP]	22/03/2022	09:44:07	Blue Spyder	Printer Online
+[LOG]	22/03/2022	09:44:08	Green Spyder	Status Change: Printing
+[LOG]	22/03/2022	09:44:09	Green Spyder	Job Started: Chassis-HalfBody.gcode
+[LOG]	22/03/2022	09:44:09	Black Spyder	Status Change: Idle
+[LOG]	22/03/2022	09:44:09	Yellow Spyder	Status Change: Idle
+[LOG]	22/03/2022	09:44:09	White Spyder	Status Change: Idle
+[LOG]	22/03/2022	09:44:09	Blue Spyder	Status Change: Idle
+[STARTUP]	22/03/2022	10:00:35	BOOT
+[STARTUP]	22/03/2022	10:00:35	Green Spyder	Printer Online
+[STARTUP]	22/03/2022	10:00:35	Black Spyder	Printer Online
+[STARTUP]	22/03/2022	10:00:35	Yellow Spyder	Printer Online
+[STARTUP]	22/03/2022	10:00:35	White Spyder	Printer Online
+[STARTUP]	22/03/2022	10:00:35	Blue Spyder	Printer Online
+[LOG]	22/03/2022	10:00:36	Green Spyder	Status Change: Printing
+[LOG]	22/03/2022	10:00:37	Green Spyder	Job Started: Chassis-HalfBody.gcode
+[LOG]	22/03/2022	10:00:37	Black Spyder	Status Change: Idle
+[LOG]	22/03/2022	10:00:37	Yellow Spyder	Status Change: Idle
+[LOG]	22/03/2022	10:00:37	White Spyder	Status Change: Idle
+[LOG]	22/03/2022	10:00:37	Blue Spyder	Status Change: Idle
+[LOG]	22/03/2022	10:19:20	Yellow Spyder	Status Change: Printing
+[LOG]	22/03/2022	10:19:20	Yellow Spyder	Job Started: 
+[LOG]	22/03/2022	10:42:25	Yellow Spyder	Status Change: Idle
+[ERROR]	22/03/2022	10:42:26	Yellow Spyder	Could not send email to user: NEMA 23 Motor Mount Test Print v2
+[LOG]	22/03/2022	10:43:57	Green Spyder	Status Change: Pausing
+[LOG]	22/03/2022	10:43:59	Green Spyder	Status Change: Idle
+[LOG]	22/03/2022	10:44:01	Green Spyder	Email sent to matthew.campbell@valpo.edu
+[LOG]	22/03/2022	10:44:27	Green Spyder	Status Change: Printing
+[LOG]	22/03/2022	10:44:29	Green Spyder	Job Started: Chassis-HalfBody.gcode
+[LOG]	22/03/2022	10:47:10	White Spyder	Status Change: Printing
+[LOG]	22/03/2022	10:47:10	White Spyder	Job Started: Chassis-BackHalf.gcode
+[LOG]	22/03/2022	10:47:26	Blue Spyder	Status Change: Printing
+[LOG]	22/03/2022	10:47:27	Blue Spyder	Job Started: Bridging_Test_50.gcode
+[LOG]	22/03/2022	10:57:01	Black Spyder	Status Change: Printing
+[LOG]	22/03/2022	10:57:01	Black Spyder	Job Started: Chassis-BackHalf.gcode
+[LOG]	22/03/2022	10:58:44	Black Spyder	Status Change: Pausing
+[LOG]	22/03/2022	10:59:22	Black Spyder	Status Change: Paused
+[LOG]	22/03/2022	10:59:24	Black Spyder	Status Change: Busy
+[LOG]	22/03/2022	10:59:26	Black Spyder	Status Change: Idle
+[LOG]	22/03/2022	10:59:27	Black Spyder	Email sent to matthew.campbell@valpo.edu
+[LOG]	22/03/2022	10:59:29	Black Spyder	Status Change: Busy
+[LOG]	22/03/2022	10:59:39	Black Spyder	Status Change: Idle
+[LOG]	22/03/2022	11:06:40	Blue Spyder	Status Change: Failed
+[LOG]	22/03/2022	11:06:41	Blue Spyder	Status Change: Printing
+[LOG]	22/03/2022	11:11:48	Blue Spyder	Status Change: Failed
+[LOG]	22/03/2022	11:11:49	Blue Spyder	Status Change: Printing
+[LOG]	22/03/2022	11:12:28	Blue Spyder	Status Change: Failed
+[LOG]	22/03/2022	11:12:29	Blue Spyder	Status Change: Printing
+[LOG]	22/03/2022	11:13:09	Blue Spyder	Status Change: Failed
+[LOG]	22/03/2022	11:13:10	Blue Spyder	Status Change: Printing
+[LOG]	22/03/2022	11:13:54	Blue Spyder	Status Change: Failed
+[LOG]	22/03/2022	11:13:56	Blue Spyder	Status Change: Printing
+[LOG]	22/03/2022	11:19:38	Blue Spyder	Status Change: Failed
+[LOG]	22/03/2022	11:19:39	Blue Spyder	Status Change: Printing
+[LOG]	22/03/2022	11:24:21	Yellow Spyder	Status Change: Printing
+[LOG]	22/03/2022	11:24:22	Yellow Spyder	Job Started: brad.kozlowski@Base.gcode
+[LOG]	22/03/2022	11:33:42	Black Spyder	Status Change: Busy
+[LOG]	22/03/2022	11:33:44	Black Spyder	Status Change: Idle
+[LOG]	22/03/2022	11:34:41	Black Spyder	Status Change: Printing
+[LOG]	22/03/2022	11:34:41	Black Spyder	Job Started: gcode
+[LOG]	22/03/2022	11:36:57	White Spyder	Status Change: Halted
+[LOG]	22/03/2022	11:36:59	White Spyder	Email sent to matthew.campbell@valpo.edu
+[LOG]	22/03/2022	11:37:03	Black Spyder	Status Change: Failed
+[LOG]	22/03/2022	11:37:05	Black Spyder	Status Change: Printing
+[LOG]	22/03/2022	11:37:13	White Spyder	Status Change: Idle
+[LOG]	22/03/2022	11:39:39	White Spyder	Status Change: Printing
+[LOG]	22/03/2022	11:39:39	White Spyder	Job Started: Bridging_Test_50.gcode
+[LOG]	22/03/2022	11:39:55	Green Spyder	Status Change: Halted
+[LOG]	22/03/2022	11:39:57	Green Spyder	Email sent to matthew.campbell@valpo.edu
+[LOG]	22/03/2022	11:40:06	Green Spyder	Status Change: Idle
+[LOG]	22/03/2022	11:40:06	White Spyder	Status Change: Offline
+[LOG]	22/03/2022	11:41:54	Black Spyder	Status Change: Paused
+[STARTUP]	22/03/2022	11:45:35	BOOT
+[STARTUP]	22/03/2022	11:45:35	Green Spyder	Printer Online
+[STARTUP]	22/03/2022	11:45:35	Black Spyder	Printer Online
+[STARTUP]	22/03/2022	11:45:35	Yellow Spyder	Printer Online
+[STARTUP]	22/03/2022	11:45:35	White Spyder	Printer Online
+[STARTUP]	22/03/2022	11:45:35	Blue Spyder	Printer Online
+[LOG]	22/03/2022	11:45:36	Green Spyder	Status Change: Printing
+[LOG]	22/03/2022	11:45:37	Green Spyder	Job Started: Chassis-HalfBody.gcode
+[LOG]	22/03/2022	11:45:37	Black Spyder	Status Change: Printing
+[LOG]	22/03/2022	11:45:37	Black Spyder	Job Started: gcode
+[LOG]	22/03/2022	11:45:37	Yellow Spyder	Status Change: Printing
+[LOG]	22/03/2022	11:45:37	Yellow Spyder	Job Started: brad.kozlowski@Base.gcode
+[LOG]	22/03/2022	11:45:37	White Spyder	Status Change: Idle
+[LOG]	22/03/2022	11:45:37	Blue Spyder	Status Change: Printing
+[LOG]	22/03/2022	11:45:38	Blue Spyder	Job Started: Bridging_Test_50.gcode
+[LOG]	22/03/2022	11:45:56	White Spyder	Status Change: Printing
+[LOG]	22/03/2022	11:45:56	White Spyder	Job Started: Bridging_Test_50.gcode
+[LOG]	22/03/2022	11:46:20	White Spyder	Status Change: Offline
+[LOG]	22/03/2022	11:46:23	White Spyder	Status Change: Idle
+[STARTUP]	22/03/2022	11:47:46	BOOT
+[STARTUP]	22/03/2022	11:47:46	Green Spyder	Printer Online
+[STARTUP]	22/03/2022	11:47:46	Black Spyder	Printer Online
+[STARTUP]	22/03/2022	11:47:46	Yellow Spyder	Printer Online
+[STARTUP]	22/03/2022	11:47:46	White Spyder	Printer Online
+[STARTUP]	22/03/2022	11:47:46	Blue Spyder	Printer Online
+[LOG]	22/03/2022	11:47:46	Green Spyder	Status Change: Printing
+[LOG]	22/03/2022	11:47:47	Green Spyder	Job Started: Chassis-HalfBody.gcode
+[LOG]	22/03/2022	11:47:47	Black Spyder	Status Change: Printing
+[LOG]	22/03/2022	11:47:47	Black Spyder	Job Started: gcode
+[LOG]	22/03/2022	11:47:47	Yellow Spyder	Status Change: Printing
+[LOG]	22/03/2022	11:47:48	Yellow Spyder	Job Started: brad.kozlowski@Base.gcode
+[LOG]	22/03/2022	11:47:48	White Spyder	Status Change: Idle
+[LOG]	22/03/2022	11:47:48	Blue Spyder	Status Change: Printing
+[LOG]	22/03/2022	11:47:48	Blue Spyder	Job Started: Bridging_Test_50.gcode
+[LOG]	22/03/2022	11:47:55	White Spyder	Status Change: Printing
+[LOG]	22/03/2022	11:47:56	White Spyder	Job Started: Bridging_Test_50.gcode
+[LOG]	22/03/2022	11:48:16	White Spyder	Status Change: Failed
+[STARTUP]	22/03/2022	11:50:29	BOOT
+[STARTUP]	22/03/2022	11:50:29	Green Spyder	Printer Online
+[STARTUP]	22/03/2022	11:50:29	Black Spyder	Printer Online
+[STARTUP]	22/03/2022	11:50:29	Yellow Spyder	Printer Online
+[STARTUP]	22/03/2022	11:50:29	White Spyder	Printer Online
+[STARTUP]	22/03/2022	11:50:29	Blue Spyder	Printer Online
+[LOG]	22/03/2022	11:50:30	Green Spyder	Status Change: Printing
+[LOG]	22/03/2022	11:50:31	Green Spyder	Job Started: Chassis-HalfBody.gcode
+[LOG]	22/03/2022	11:50:31	Black Spyder	Status Change: Printing
+[LOG]	22/03/2022	11:50:31	Black Spyder	Job Started: gcode
+[LOG]	22/03/2022	11:50:31	Yellow Spyder	Status Change: Printing
+[LOG]	22/03/2022	11:50:32	Yellow Spyder	Job Started: brad.kozlowski@Base.gcode
+[LOG]	22/03/2022	11:50:32	White Spyder	Status Change: Idle
+[LOG]	22/03/2022	11:50:32	Blue Spyder	Status Change: Printing
+[LOG]	22/03/2022	11:50:32	Blue Spyder	Job Started: Bridging_Test_50.gcode
+[LOG]	22/03/2022	11:50:41	White Spyder	Status Change: Printing
+[LOG]	22/03/2022	11:50:42	White Spyder	Job Started: Bridging_Test_50.gcode
+[LOG]	22/03/2022	11:50:59	White Spyder	Status Change: Paused
+[LOG]	22/03/2022	11:51:06	White Spyder	Status Change: Offline
+[LOG]	22/03/2022	11:51:09	White Spyder	Status Change: Idle
+[LOG]	22/03/2022	11:51:10	White Spyder	Email sent to jesse.sestito@valpo.edu
+[STARTUP]	22/03/2022	11:53:36	BOOT
+[STARTUP]	22/03/2022	11:53:36	Green Spyder	Printer Online
+[STARTUP]	22/03/2022	11:53:36	Black Spyder	Printer Online
+[STARTUP]	22/03/2022	11:53:36	Yellow Spyder	Printer Online
+[STARTUP]	22/03/2022	11:53:36	White Spyder	Printer Online
+[STARTUP]	22/03/2022	11:53:36	Blue Spyder	Printer Online
+[LOG]	22/03/2022	11:53:36	Green Spyder	Status Change: Printing
+[LOG]	22/03/2022	11:53:38	Green Spyder	Job Started: Chassis-HalfBody.gcode
+[LOG]	22/03/2022	11:53:38	Black Spyder	Status Change: Printing
+[LOG]	22/03/2022	11:53:38	Black Spyder	Job Started: gcode
+[LOG]	22/03/2022	11:53:38	Yellow Spyder	Status Change: Printing
+[LOG]	22/03/2022	11:53:38	Yellow Spyder	Job Started: brad.kozlowski@Base.gcode
+[LOG]	22/03/2022	11:53:38	White Spyder	Status Change: Idle
+[LOG]	22/03/2022	11:53:38	Blue Spyder	Status Change: Printing
+[LOG]	22/03/2022	11:53:39	Blue Spyder	Job Started: Bridging_Test_50.gcode
+[LOG]	22/03/2022	11:53:54	Black Spyder	Status Change: Failed
+[LOG]	22/03/2022	11:53:54	White Spyder	Status Change: Failed
+[STARTUP]	22/03/2022	11:54:04	BOOT
+[STARTUP]	22/03/2022	11:54:04	Green Spyder	Printer Online
+[STARTUP]	22/03/2022	11:54:04	Black Spyder	Printer Online
+[STARTUP]	22/03/2022	11:54:04	Yellow Spyder	Printer Online
+[STARTUP]	22/03/2022	11:54:04	White Spyder	Printer Online
+[STARTUP]	22/03/2022	11:54:04	Blue Spyder	Printer Online
+[LOG]	22/03/2022	11:54:05	Green Spyder	Status Change: Printing
+[LOG]	22/03/2022	11:54:06	Green Spyder	Job Started: Chassis-HalfBody.gcode
+[LOG]	22/03/2022	11:54:06	Black Spyder	Status Change: Printing
+[LOG]	22/03/2022	11:54:06	Black Spyder	Job Started: gcode
+[LOG]	22/03/2022	11:54:06	Yellow Spyder	Status Change: Printing
+[LOG]	22/03/2022	11:54:06	Yellow Spyder	Job Started: brad.kozlowski@Base.gcode
+[LOG]	22/03/2022	11:54:06	White Spyder	Status Change: Idle
+[LOG]	22/03/2022	11:54:06	Blue Spyder	Status Change: Printing
+[LOG]	22/03/2022	11:54:07	Blue Spyder	Job Started: Bridging_Test_50.gcode
+[LOG]	22/03/2022	11:54:16	White Spyder	Status Change: Printing
+[LOG]	22/03/2022	11:54:16	White Spyder	Job Started: Bridging_Test_50.gcode
+[LOG]	22/03/2022	11:54:29	White Spyder	Status Change: Halted
+[LOG]	22/03/2022	11:54:30	White Spyder	Email sent to jesse.sestito@valpo.edu
+[LOG]	22/03/2022	11:54:34	White Spyder	Status Change: Idle
+[STARTUP]	22/03/2022	12:09:46	BOOT
+[STARTUP]	22/03/2022	12:09:46	Green Spyder	Printer Online
+[STARTUP]	22/03/2022	12:09:46	Black Spyder	Printer Online
+[STARTUP]	22/03/2022	12:09:46	Yellow Spyder	Printer Online
+[STARTUP]	22/03/2022	12:09:46	White Spyder	Printer Online
+[STARTUP]	22/03/2022	12:09:46	Blue Spyder	Printer Online
+[LOG]	22/03/2022	12:09:48	Green Spyder	Status Change: 
+[LOG]	22/03/2022	12:09:48	Black Spyder	Status Change: 
+[LOG]	22/03/2022	12:09:48	Yellow Spyder	Status Change: 
+[LOG]	22/03/2022	12:09:48	White Spyder	Status Change: 
+[LOG]	22/03/2022	12:09:48	Blue Spyder	Status Change: 
+[STARTUP]	22/03/2022	12:11:00	BOOT
+[STARTUP]	22/03/2022	12:11:00	Green Spyder	Printer Online
+[STARTUP]	22/03/2022	12:11:00	Black Spyder	Printer Online
+[STARTUP]	22/03/2022	12:11:00	Yellow Spyder	Printer Online
+[STARTUP]	22/03/2022	12:11:00	White Spyder	Printer Online
+[STARTUP]	22/03/2022	12:11:00	Blue Spyder	Printer Online
+[LOG]	22/03/2022	12:11:01	Green Spyder	Status Change: 
+[LOG]	22/03/2022	12:11:01	Black Spyder	Status Change: 
+[LOG]	22/03/2022	12:11:01	Yellow Spyder	Status Change: 
+[LOG]	22/03/2022	12:11:01	White Spyder	Status Change: 
+[LOG]	22/03/2022	12:11:01	Blue Spyder	Status Change: 
+[STARTUP]	22/03/2022	12:11:11	BOOT
+[STARTUP]	22/03/2022	12:11:11	Green Spyder	Printer Online
+[STARTUP]	22/03/2022	12:11:11	Black Spyder	Printer Online
+[STARTUP]	22/03/2022	12:11:11	Yellow Spyder	Printer Online
+[STARTUP]	22/03/2022	12:11:11	White Spyder	Printer Online
+[STARTUP]	22/03/2022	12:11:11	Blue Spyder	Printer Online
+[LOG]	22/03/2022	12:11:12	Green Spyder	Status Change: Printing
+[LOG]	22/03/2022	12:11:13	Green Spyder	Job Started: Chassis-HalfBody.gcode
+[LOG]	22/03/2022	12:11:13	Black Spyder	Status Change: Printing
+[LOG]	22/03/2022	12:11:14	Black Spyder	Job Started: gcode
+[LOG]	22/03/2022	12:11:14	Yellow Spyder	Status Change: Printing
+[LOG]	22/03/2022	12:11:14	Yellow Spyder	Job Started: brad.kozlowski@Base.gcode
+[LOG]	22/03/2022	12:11:14	White Spyder	Status Change: Idle
+[LOG]	22/03/2022	12:11:14	Blue Spyder	Status Change: Printing
+[LOG]	22/03/2022	12:11:14	Blue Spyder	Job Started: Bridging_Test_50.gcode
+[STARTUP]	22/03/2022	12:11:48	BOOT
+[STARTUP]	22/03/2022	12:11:48	Green Spyder	Printer Online
+[STARTUP]	22/03/2022	12:11:48	Black Spyder	Printer Online
+[STARTUP]	22/03/2022	12:11:48	Yellow Spyder	Printer Online
+[STARTUP]	22/03/2022	12:11:48	White Spyder	Printer Online
+[STARTUP]	22/03/2022	12:11:48	Blue Spyder	Printer Online
+[LOG]	22/03/2022	12:11:49	Green Spyder	Status Change: Printing
+[LOG]	22/03/2022	12:11:50	Green Spyder	Job Started: Chassis-HalfBody.gcode
+[LOG]	22/03/2022	12:11:50	Black Spyder	Status Change: Printing
+[LOG]	22/03/2022	12:11:50	Black Spyder	Job Started: gcode
+[LOG]	22/03/2022	12:11:50	Yellow Spyder	Status Change: Printing
+[LOG]	22/03/2022	12:11:51	Yellow Spyder	Job Started: brad.kozlowski@Base.gcode
+[LOG]	22/03/2022	12:11:51	White Spyder	Status Change: Idle
+[LOG]	22/03/2022	12:11:51	Blue Spyder	Status Change: Printing
+[LOG]	22/03/2022	12:11:51	Blue Spyder	Job Started: Bridging_Test_50.gcode
+[STARTUP]	22/03/2022	12:13:00	BOOT
+[STARTUP]	22/03/2022	12:13:00	Green Spyder	Printer Online
+[STARTUP]	22/03/2022	12:13:00	Black Spyder	Printer Online
+[STARTUP]	22/03/2022	12:13:00	Yellow Spyder	Printer Online
+[STARTUP]	22/03/2022	12:13:00	White Spyder	Printer Online
+[STARTUP]	22/03/2022	12:13:00	Blue Spyder	Printer Online
+[LOG]	22/03/2022	12:13:01	Green Spyder	Status Change: Printing
+[LOG]	22/03/2022	12:13:03	Black Spyder	Status Change: Printing
+[LOG]	22/03/2022	12:13:03	Black Spyder	Job Started: gcode
+[LOG]	22/03/2022	12:13:03	Yellow Spyder	Status Change: Printing
+[LOG]	22/03/2022	12:13:03	Yellow Spyder	Job Started: brad.kozlowski@Base.gcode
+[LOG]	22/03/2022	12:13:03	White Spyder	Status Change: Idle
+[LOG]	22/03/2022	12:13:03	Blue Spyder	Status Change: Printing
+[LOG]	22/03/2022	12:13:03	Blue Spyder	Job Started: gcode
+[LOG]	22/03/2022	12:13:34	Blue Spyder	Status Change: Failed
+[STARTUP]	22/03/2022	12:13:38	BOOT
+[STARTUP]	22/03/2022	12:13:38	Green Spyder	Printer Online
+[STARTUP]	22/03/2022	12:13:38	Black Spyder	Printer Online
+[STARTUP]	22/03/2022	12:13:38	Yellow Spyder	Printer Online
+[STARTUP]	22/03/2022	12:13:38	White Spyder	Printer Online
+[STARTUP]	22/03/2022	12:13:38	Blue Spyder	Printer Online
+[LOG]	22/03/2022	12:13:39	Green Spyder	Status Change: Printing
+[STARTUP]	22/03/2022	12:15:10	BOOT
+[STARTUP]	22/03/2022	12:15:10	Green Spyder	Printer Online
+[STARTUP]	22/03/2022	12:15:10	Black Spyder	Printer Online
+[STARTUP]	22/03/2022	12:15:10	Yellow Spyder	Printer Online
+[STARTUP]	22/03/2022	12:15:10	White Spyder	Printer Online
+[STARTUP]	22/03/2022	12:15:10	Blue Spyder	Printer Online
+[LOG]	22/03/2022	12:15:11	Green Spyder	Status Change: Printing
+[STARTUP]	22/03/2022	12:15:32	BOOT
+[STARTUP]	22/03/2022	12:15:32	Green Spyder	Printer Online
+[STARTUP]	22/03/2022	12:15:32	Black Spyder	Printer Online
+[STARTUP]	22/03/2022	12:15:32	Yellow Spyder	Printer Online
+[STARTUP]	22/03/2022	12:15:32	White Spyder	Printer Online
+[STARTUP]	22/03/2022	12:15:32	Blue Spyder	Printer Online
+[LOG]	22/03/2022	12:15:34	Green Spyder	Status Change: Printing
+[LOG]	22/03/2022	12:15:34	Green Spyder	Job Started: 
+[LOG]	22/03/2022	12:15:34	Black Spyder	Status Change: Printing
+[LOG]	22/03/2022	12:15:34	Black Spyder	Job Started: 
+[LOG]	22/03/2022	12:15:34	Yellow Spyder	Status Change: Printing
+[LOG]	22/03/2022	12:15:34	Yellow Spyder	Job Started: 
+[LOG]	22/03/2022	12:15:34	White Spyder	Status Change: Idle
+[LOG]	22/03/2022	12:15:34	Blue Spyder	Status Change: Printing
+[LOG]	22/03/2022	12:15:34	Blue Spyder	Job Started: 
+[STARTUP]	22/03/2022	12:16:05	BOOT
+[STARTUP]	22/03/2022	12:16:05	Green Spyder	Printer Online
+[STARTUP]	22/03/2022	12:16:05	Black Spyder	Printer Online
+[STARTUP]	22/03/2022	12:16:05	Yellow Spyder	Printer Online
+[STARTUP]	22/03/2022	12:16:05	White Spyder	Printer Online
+[STARTUP]	22/03/2022	12:16:05	Blue Spyder	Printer Online
+[LOG]	22/03/2022	12:16:07	Green Spyder	Status Change: Printing
+[LOG]	22/03/2022	12:16:08	Green Spyder	Job Started: Chassis-HalfBody.gcode
+[LOG]	22/03/2022	12:16:08	Black Spyder	Status Change: Printing
+[LOG]	22/03/2022	12:16:08	Black Spyder	Job Started: gcode
+[LOG]	22/03/2022	12:16:08	Yellow Spyder	Status Change: Printing
+[LOG]	22/03/2022	12:16:08	Yellow Spyder	Job Started: brad.kozlowski@Base.gcode
+[LOG]	22/03/2022	12:16:08	White Spyder	Status Change: Idle
+[LOG]	22/03/2022	12:16:08	Blue Spyder	Status Change: Printing
+[LOG]	22/03/2022	12:16:09	Blue Spyder	Job Started: Bridging_Test_50.gcode
+[STARTUP]	22/03/2022	12:21:29	BOOT
+[STARTUP]	22/03/2022	12:21:29	Green Spyder	Printer Online
+[STARTUP]	22/03/2022	12:21:29	Black Spyder	Printer Online
+[STARTUP]	22/03/2022	12:21:29	Yellow Spyder	Printer Online
+[STARTUP]	22/03/2022	12:21:29	White Spyder	Printer Online
+[STARTUP]	22/03/2022	12:21:29	Blue Spyder	Printer Online
+[LOG]	22/03/2022	12:21:30	Green Spyder	Status Change: Printing
+[LOG]	22/03/2022	12:21:31	Green Spyder	Job Started: Chassis-HalfBody.gcode
+[LOG]	22/03/2022	12:21:31	Black Spyder	Status Change: Printing
+[LOG]	22/03/2022	12:21:31	Black Spyder	Job Started: gcode
+[LOG]	22/03/2022	12:21:31	Yellow Spyder	Status Change: Printing
+[LOG]	22/03/2022	12:21:32	Yellow Spyder	Job Started: brad.kozlowski@Base.gcode
+[LOG]	22/03/2022	12:21:32	White Spyder	Status Change: Idle
+[LOG]	22/03/2022	12:21:32	Blue Spyder	Status Change: Printing
+[LOG]	22/03/2022	12:21:32	Blue Spyder	Job Started: Bridging_Test_50.gcode
+[STARTUP]	22/03/2022	12:22:14	BOOT
+[STARTUP]	22/03/2022	12:22:14	Green Spyder	Printer Online
+[STARTUP]	22/03/2022	12:22:14	Black Spyder	Printer Online
+[STARTUP]	22/03/2022	12:22:14	Yellow Spyder	Printer Online
+[STARTUP]	22/03/2022	12:22:14	White Spyder	Printer Online
+[STARTUP]	22/03/2022	12:22:14	Blue Spyder	Printer Online
+[LOG]	22/03/2022	12:22:16	Green Spyder	Status Change: Printing
+[LOG]	22/03/2022	12:22:17	Green Spyder	Job Started: 
+[LOG]	22/03/2022	12:22:17	Black Spyder	Status Change: Printing
+[LOG]	22/03/2022	12:22:17	Black Spyder	Job Started: 
+[LOG]	22/03/2022	12:22:17	Yellow Spyder	Status Change: Printing
+[LOG]	22/03/2022	12:22:18	Yellow Spyder	Job Started: 
+[LOG]	22/03/2022	12:22:18	White Spyder	Status Change: Idle
+[LOG]	22/03/2022	12:22:18	Blue Spyder	Status Change: Printing
+[LOG]	22/03/2022	12:22:18	Blue Spyder	Job Started: 
+[LOG]	22/03/2022	12:22:29	Green Spyder	Status Change: Failed
+[LOG]	22/03/2022	12:22:29	Yellow Spyder	Status Change: Failed
+[LOG]	22/03/2022	12:22:29	Blue Spyder	Status Change: Failed
+[STARTUP]	22/03/2022	12:22:57	BOOT
+[STARTUP]	22/03/2022	12:22:57	Green Spyder	Printer Online
+[STARTUP]	22/03/2022	12:22:57	Black Spyder	Printer Online
+[STARTUP]	22/03/2022	12:22:57	Yellow Spyder	Printer Online
+[STARTUP]	22/03/2022	12:22:57	White Spyder	Printer Online
+[STARTUP]	22/03/2022	12:22:57	Blue Spyder	Printer Online
+[LOG]	22/03/2022	12:22:58	Green Spyder	Status Change: Printing
+[LOG]	22/03/2022	12:22:59	Green Spyder	Job Started: Chassis-HalfBody.gcode
+[LOG]	22/03/2022	12:22:59	Black Spyder	Status Change: Printing
+[LOG]	22/03/2022	12:22:59	Black Spyder	Job Started: gcode
+[LOG]	22/03/2022	12:22:59	Yellow Spyder	Status Change: Printing
+[LOG]	22/03/2022	12:23:00	Yellow Spyder	Job Started: brad.kozlowski@Base.gcode
+[LOG]	22/03/2022	12:23:00	White Spyder	Status Change: Idle
+[LOG]	22/03/2022	12:23:00	Blue Spyder	Status Change: Printing
+[LOG]	22/03/2022	12:23:00	Blue Spyder	Job Started: gcode
+[LOG]	22/03/2022	12:23:19	Green Spyder	Status Change: Failed
+[LOG]	22/03/2022	12:23:19	Yellow Spyder	Status Change: Failed
+[STARTUP]	22/03/2022	12:23:24	BOOT
+[STARTUP]	22/03/2022	12:23:24	Green Spyder	Printer Online
+[STARTUP]	22/03/2022	12:23:24	Black Spyder	Printer Online
+[STARTUP]	22/03/2022	12:23:24	Yellow Spyder	Printer Online
+[STARTUP]	22/03/2022	12:23:24	White Spyder	Printer Online
+[STARTUP]	22/03/2022	12:23:24	Blue Spyder	Printer Online
+[LOG]	22/03/2022	12:23:25	Green Spyder	Status Change: Printing
+[LOG]	22/03/2022	12:23:26	Green Spyder	Job Started: Chassis-HalfBody.gcode
+[LOG]	22/03/2022	12:23:26	Black Spyder	Status Change: Printing
+[LOG]	22/03/2022	12:23:26	Black Spyder	Job Started: gcode
+[LOG]	22/03/2022	12:23:26	Yellow Spyder	Status Change: Printing
+[LOG]	22/03/2022	12:23:26	Yellow Spyder	Job Started: brad.kozlowski@Base.gcode
+[LOG]	22/03/2022	12:23:26	White Spyder	Status Change: Idle
+[LOG]	22/03/2022	12:23:26	Blue Spyder	Status Change: Printing
+[LOG]	22/03/2022	12:23:27	Blue Spyder	Job Started: gcode
+[LOG]	22/03/2022	12:24:04	Black Spyder	Status Change: Failed
+[LOG]	22/03/2022	12:24:04	Yellow Spyder	Status Change: Failed
+[STARTUP]	22/03/2022	12:24:08	BOOT
+[STARTUP]	22/03/2022	12:24:08	Green Spyder	Printer Online
+[STARTUP]	22/03/2022	12:24:08	Black Spyder	Printer Online
+[STARTUP]	22/03/2022	12:24:08	Yellow Spyder	Printer Online
+[STARTUP]	22/03/2022	12:24:08	White Spyder	Printer Online
+[STARTUP]	22/03/2022	12:24:08	Blue Spyder	Printer Online
+[LOG]	22/03/2022	12:24:09	Green Spyder	Status Change: Printing
+[LOG]	22/03/2022	12:24:09	Green Spyder	Job Started: Chassis-HalfBody.gcode
+[LOG]	22/03/2022	12:24:09	Black Spyder	Status Change: Printing
+[LOG]	22/03/2022	12:24:09	Black Spyder	Job Started: gcode
+[LOG]	22/03/2022	12:24:09	Yellow Spyder	Status Change: Printing
+[LOG]	22/03/2022	12:24:09	Yellow Spyder	Job Started: brad.kozlowski@Base.gcode
+[LOG]	22/03/2022	12:24:09	White Spyder	Status Change: Idle
+[LOG]	22/03/2022	12:24:09	Blue Spyder	Status Change: Printing
+[LOG]	22/03/2022	12:24:09	Blue Spyder	Job Started: gcode
+[STARTUP]	24/03/2022	08:57:23	BOOT
+[STARTUP]	24/03/2022	08:57:23	Green Spyder	Printer Online
+[STARTUP]	24/03/2022	08:57:23	Black Spyder	Printer Online
+[STARTUP]	24/03/2022	08:57:23	Yellow Spyder	Printer Online
+[STARTUP]	24/03/2022	08:57:23	White Spyder	Printer Online
+[STARTUP]	24/03/2022	08:57:23	Blue Spyder	Printer Online
+[LOG]	24/03/2022	08:57:23	Green Spyder	Status Change: Idle
+[LOG]	24/03/2022	08:57:23	Black Spyder	Status Change: Idle
+[LOG]	24/03/2022	08:57:23	Yellow Spyder	Status Change: Idle
+[LOG]	24/03/2022	08:57:23	White Spyder	Status Change: Idle
+[LOG]	24/03/2022	08:57:23	Blue Spyder	Status Change: Idle
+[LOG]	24/03/2022	08:57:29	Green Spyder	Status Change: Idle
+[LOG]	24/03/2022	08:57:29	Black Spyder	Status Change: Idle
+[LOG]	24/03/2022	08:57:29	Yellow Spyder	Status Change: Idle
+[LOG]	24/03/2022	08:57:29	White Spyder	Status Change: Idle
+[LOG]	24/03/2022	08:57:29	Blue Spyder	Status Change: Idle
+[LOG]	24/03/2022	08:57:32	Green Spyder	Status Change: Idle
+[LOG]	24/03/2022	08:57:32	Black Spyder	Status Change: Idle
+[LOG]	24/03/2022	08:57:32	Yellow Spyder	Status Change: Idle
+[LOG]	24/03/2022	08:57:32	White Spyder	Status Change: Idle
+[LOG]	24/03/2022	08:57:32	Blue Spyder	Status Change: Idle
+[LOG]	24/03/2022	08:57:36	Green Spyder	Status Change: Idle
+[LOG]	24/03/2022	08:57:36	Black Spyder	Status Change: Idle
+[LOG]	24/03/2022	08:57:36	Yellow Spyder	Status Change: Idle
+[LOG]	24/03/2022	08:57:36	White Spyder	Status Change: Idle
+[LOG]	24/03/2022	08:57:36	Blue Spyder	Status Change: Idle
+[LOG]	24/03/2022	08:57:39	Green Spyder	Status Change: Idle
+[LOG]	24/03/2022	08:57:39	Black Spyder	Status Change: Idle
+[LOG]	24/03/2022	08:57:39	Yellow Spyder	Status Change: Idle
+[LOG]	24/03/2022	08:57:39	White Spyder	Status Change: Idle
+[LOG]	24/03/2022	08:57:39	Blue Spyder	Status Change: Idle
+[LOG]	24/03/2022	08:57:43	Green Spyder	Status Change: Idle
+[LOG]	24/03/2022	08:57:43	Black Spyder	Status Change: Idle
+[LOG]	24/03/2022	08:57:43	Yellow Spyder	Status Change: Idle
+[LOG]	24/03/2022	08:57:43	White Spyder	Status Change: Idle
+[LOG]	24/03/2022	08:57:43	Blue Spyder	Status Change: Idle
+[STARTUP]	24/03/2022	08:58:50	BOOT
+[STARTUP]	24/03/2022	08:58:50	Green Spyder	Printer Online
+[STARTUP]	24/03/2022	08:58:50	Black Spyder	Printer Online
+[STARTUP]	24/03/2022	08:58:50	Yellow Spyder	Printer Online
+[STARTUP]	24/03/2022	08:58:50	White Spyder	Printer Online
+[STARTUP]	24/03/2022	08:58:50	Blue Spyder	Printer Online
+[LOG]	24/03/2022	08:58:51	Green Spyder	Status Change: Idle
+[LOG]	24/03/2022	08:58:51	Black Spyder	Status Change: Idle
+[LOG]	24/03/2022	08:58:51	Yellow Spyder	Status Change: Idle
+[LOG]	24/03/2022	08:58:51	White Spyder	Status Change: Idle
+[LOG]	24/03/2022	08:58:51	Blue Spyder	Status Change: Idle
+[STARTUP]	24/03/2022	08:59:13	BOOT
+[STARTUP]	24/03/2022	08:59:13	Green Spyder	Printer Online
+[STARTUP]	24/03/2022	08:59:13	Black Spyder	Printer Online
+[STARTUP]	24/03/2022	08:59:13	Yellow Spyder	Printer Online
+[STARTUP]	24/03/2022	08:59:13	White Spyder	Printer Online
+[STARTUP]	24/03/2022	08:59:13	Blue Spyder	Printer Online
+[LOG]	24/03/2022	08:59:14	Green Spyder	Status Change: Idle
+[LOG]	24/03/2022	08:59:14	Black Spyder	Status Change: Idle
+[LOG]	24/03/2022	08:59:14	Yellow Spyder	Status Change: Idle
+[LOG]	24/03/2022	08:59:14	White Spyder	Status Change: Idle
+[LOG]	24/03/2022	08:59:14	Blue Spyder	Status Change: Idle
+[STARTUP]	24/03/2022	09:02:45	BOOT
+[STARTUP]	24/03/2022	09:02:45	Green Spyder	Printer Online
+[STARTUP]	24/03/2022	09:02:45	Black Spyder	Printer Online
+[STARTUP]	24/03/2022	09:02:45	Yellow Spyder	Printer Online
+[STARTUP]	24/03/2022	09:02:45	White Spyder	Printer Online
+[STARTUP]	24/03/2022	09:02:45	Blue Spyder	Printer Online
+[LOG]	24/03/2022	09:02:45	Green Spyder	Status Change: Idle
+[LOG]	24/03/2022	09:02:45	Black Spyder	Status Change: Idle
+[LOG]	24/03/2022	09:02:45	Yellow Spyder	Status Change: Idle
+[LOG]	24/03/2022	09:02:45	White Spyder	Status Change: Idle
+[LOG]	24/03/2022	09:02:45	Blue Spyder	Status Change: Idle
+[STARTUP]	24/03/2022	09:05:07	BOOT
+[STARTUP]	24/03/2022	09:05:07	Green Spyder	Printer Online
+[STARTUP]	24/03/2022	09:05:07	Black Spyder	Printer Online
+[STARTUP]	24/03/2022	09:05:07	Yellow Spyder	Printer Online
+[STARTUP]	24/03/2022	09:05:07	White Spyder	Printer Online
+[STARTUP]	24/03/2022	09:05:07	Blue Spyder	Printer Online
+[LOG]	24/03/2022	09:05:07	Green Spyder	Status Change: Idle
+[LOG]	24/03/2022	09:05:07	Black Spyder	Status Change: Idle
+[LOG]	24/03/2022	09:05:07	Yellow Spyder	Status Change: Idle
+[LOG]	24/03/2022	09:05:07	White Spyder	Status Change: Idle
+[LOG]	24/03/2022	09:05:07	Blue Spyder	Status Change: Idle
+[STARTUP]	24/03/2022	15:17:50	BOOT
+[STARTUP]	24/03/2022	15:17:50	Green Spyder	Printer Online
+[STARTUP]	24/03/2022	15:17:50	Black Spyder	Printer Online
+[STARTUP]	24/03/2022	15:17:50	Yellow Spyder	Printer Online
+[STARTUP]	24/03/2022	15:17:50	White Spyder	Printer Online
+[STARTUP]	24/03/2022	15:17:50	Blue Spyder	Printer Online
+[LOG]	24/03/2022	15:17:51	Green Spyder	Status Change: Printing
+[LOG]	24/03/2022	15:17:51	Green Spyder	Job Started: gcode
+[LOG]	24/03/2022	15:17:51	Black Spyder	Status Change: Printing
+[LOG]	24/03/2022	15:17:51	Black Spyder	Job Started: SoilSamplerHolderExtender_SoilSampleHolderExtensionRightv1.gcode
+[LOG]	24/03/2022	15:17:51	Yellow Spyder	Status Change: Printing
+[LOG]	24/03/2022	15:17:51	Yellow Spyder	Job Started: adelle.holder@Flexi-Rex-improved.gcode
+[LOG]	24/03/2022	15:17:51	White Spyder	Status Change: Printing
+[LOG]	24/03/2022	15:17:51	White Spyder	Job Started: CenterCarriageHoleStencil.gcode
+[LOG]	24/03/2022	15:17:51	Blue Spyder	Status Change: Idle
+[STARTUP]	15/08/2022	08:46:22	BOOT
+[STARTUP]	15/08/2022	08:46:22	Green Spyder	Printer Online
+[STARTUP]	15/08/2022	08:46:22	Black Spyder	Printer Online
+[STARTUP]	15/08/2022	08:46:22	Yellow Spyder	Printer Online
+[STARTUP]	15/08/2022	08:46:22	White Spyder	Printer Online
+[STARTUP]	15/08/2022	08:46:22	Blue Spyder	Printer Online
+[LOG]	15/08/2022	08:46:23	Green Spyder	Status Change: Idle
+[LOG]	15/08/2022	08:46:23	Black Spyder	Status Change: Idle
+[LOG]	15/08/2022	08:46:23	Yellow Spyder	Status Change: Idle
+[LOG]	15/08/2022	08:46:23	White Spyder	Status Change: Idle
+[LOG]	15/08/2022	08:46:23	Blue Spyder	Status Change: Idle
+[STARTUP]	15/08/2022	08:47:23	BOOT
+[STARTUP]	15/08/2022	08:47:23	Green Spyder	Printer Online
+[STARTUP]	15/08/2022	08:47:23	Black Spyder	Printer Online
+[STARTUP]	15/08/2022	08:47:23	Yellow Spyder	Printer Online
+[STARTUP]	15/08/2022	08:47:23	White Spyder	Printer Online
+[STARTUP]	15/08/2022	08:47:23	Blue Spyder	Printer Online
+[LOG]	15/08/2022	08:47:23	Green Spyder	Status Change: Idle
+[LOG]	15/08/2022	08:47:23	Black Spyder	Status Change: Idle
+[LOG]	15/08/2022	08:47:23	Yellow Spyder	Status Change: Idle
+[LOG]	15/08/2022	08:47:23	White Spyder	Status Change: Idle
+[LOG]	15/08/2022	08:47:23	Blue Spyder	Status Change: Idle
+[LOG]	15/08/2022	08:48:04	Green Spyder	Status Change: Printing
+[LOG]	15/08/2022	08:48:04	Green Spyder	Job Started: turtle-final.gcode
+[LOG]	15/08/2022	08:48:25	Green Spyder	Status Change: Idle
+[LOG]	15/08/2022	08:48:25	Green Spyder	Email sent to jesse.sestito@valpo.edu
+[STARTUP]	15/08/2022	09:15:47	BOOT
+[STARTUP]	15/08/2022	09:15:47	Green Spyder	Printer Online
+[STARTUP]	15/08/2022	09:15:47	Black Spyder	Printer Online
+[STARTUP]	15/08/2022	09:15:47	Yellow Spyder	Printer Online
+[STARTUP]	15/08/2022	09:15:47	White Spyder	Printer Online
+[STARTUP]	15/08/2022	09:15:47	Blue Spyder	Printer Online
+[LOG]	15/08/2022	09:15:47	Green Spyder	Status Change: Idle
+[LOG]	15/08/2022	09:15:47	Black Spyder	Status Change: Idle
+[LOG]	15/08/2022	09:15:47	Yellow Spyder	Status Change: Idle
+[LOG]	15/08/2022	09:15:47	White Spyder	Status Change: Idle
+[LOG]	15/08/2022	09:15:47	Blue Spyder	Status Change: Idle
+[LOG]	15/08/2022	09:16:08	Green Spyder	Status Change: Printing
+[LOG]	15/08/2022	09:16:08	Green Spyder	Job Started: turtle-final.gcode
+[LOG]	15/08/2022	09:16:28	Green Spyder	Status Change: Idle
+[LOG]	15/08/2022	09:16:30	Green Spyder	Email sent to jesse.sestito@valpo.edu
+[STARTUP]	15/08/2022	09:23:22	BOOT
+[STARTUP]	15/08/2022	09:23:22	Green Spyder	Printer Online
+[STARTUP]	15/08/2022	09:23:22	Black Spyder	Printer Online
+[STARTUP]	15/08/2022	09:23:22	Yellow Spyder	Printer Online
+[STARTUP]	15/08/2022	09:23:22	White Spyder	Printer Online
+[STARTUP]	15/08/2022	09:23:22	Blue Spyder	Printer Online
+[LOG]	15/08/2022	09:23:22	Green Spyder	Status Change: Idle
+[LOG]	15/08/2022	09:23:22	Black Spyder	Status Change: Idle
+[LOG]	15/08/2022	09:23:22	Yellow Spyder	Status Change: Idle
+[LOG]	15/08/2022	09:23:22	White Spyder	Status Change: Idle
+[LOG]	15/08/2022	09:23:22	Blue Spyder	Status Change: Idle
+[LOG]	15/08/2022	09:23:43	Green Spyder	Status Change: Printing
+[LOG]	15/08/2022	09:23:43	Green Spyder	Job by jsestito Started: turtle-final.gcode
+[LOG]	15/08/2022	09:24:03	Green Spyder	Status Change: Idle
+[LOG]	15/08/2022	09:24:03	Green Spyder	Job for jsestito Complete: turtle-final.gcode
+[LOG]	15/08/2022	09:24:04	Green Spyder	Email sent to jesse.sestito@valpo.edu
